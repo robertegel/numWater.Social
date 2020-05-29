@@ -2,7 +2,7 @@
 
 ## A numeric model for water supply systems including considerations about social interactions and drinking behavior
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 View [concept.pdf](https://github.com/robertegel/numWater.Social/blob/master/concept.pdf) for more information about the models behavior.
 This project is built on a previous unpublished group project which developed a complex numeric model simulating a water supply systems behavior with multiple processes.
